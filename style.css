@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins' ;
+    }
+    h1{
+        font-size: larger;      }
+    .name-highlight{ 
+        color: orange;
+    }
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding: 2%; 
+    }
+    .half-width img{
+        width: 58%;
+    }
